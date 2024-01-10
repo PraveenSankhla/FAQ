@@ -1,0 +1,196 @@
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.staticwebassets.runtime.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.staticwebassets.runtime.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.exe
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.deps.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.runtimeconfig.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Shared.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Shared.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.AssemblyInfo.cs
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.FAQ.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.FAQ.Server.props
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FAQ.Server.props
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FAQ.Server.props
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\scopedcss\bundle\FAQ.Server.styles.css
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.CopyComplete
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\refint\FAQ.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.genruntimeconfig.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Server\obj\Debug\net6.0\ref\FAQ.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\appsettings.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.staticwebassets.runtime.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.staticwebassets.runtime.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.exe
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.deps.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.runtimeconfig.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Server.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Azure.Core.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Azure.Identity.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Client.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\bin\Debug\net6.0\FAQ.Shared.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.AssemblyReference.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.AssemblyInfoInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.AssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.CoreCompileInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.RazorAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.RazorAssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.FAQ.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.FAQ.Server.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FAQ.Server.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FAQ.Server.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\scopedcss\bundle\FAQ.Server.styles.css
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.csproj.CopyComplete
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\refint\FAQ.Server.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\FAQ.Server.genruntimeconfig.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Server\obj\Debug\net6.0\ref\FAQ.Server.dll

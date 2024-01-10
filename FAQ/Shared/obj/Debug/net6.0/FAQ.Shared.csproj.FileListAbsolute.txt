@@ -1,0 +1,22 @@
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.deps.json
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.AssemblyInfo.cs
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\refint\FAQ.Shared.dll
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.pdb
+C:\Users\hp\Desktop\FAQ\FAQ\Shared\obj\Debug\net6.0\ref\FAQ.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.deps.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\bin\Debug\net6.0\FAQ.Shared.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.AssemblyInfoInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.AssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.csproj.CoreCompileInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\refint\FAQ.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\FAQ.Shared.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\FAQ\FAQ\Shared\obj\Debug\net6.0\ref\FAQ.Shared.dll
